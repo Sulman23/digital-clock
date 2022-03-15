@@ -4,7 +4,6 @@ let minutes = document.getElementById("minutes");
 let seconds = document.getElementById("seconds");
 
 //setInterval function
-
 setInterval(() => {
 // getting date from date object
     let date = new Date;
